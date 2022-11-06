@@ -3,7 +3,7 @@
 burda bahsedilen dosyalara [github](https://github.com/erensenell/python-projeleri) da bulunmaktadır.
 
 
-### Python projelerine
+### Python projeleri
 
 - Asal Sayı Bulma
 - Bilgisayar Bilgilerini Öğrenme
